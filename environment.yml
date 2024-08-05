@@ -1,0 +1,51 @@
+name: geospatial
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+  - matplotlib
+  - ipympl
+  - xarray 
+  - xarray-spatial
+  - earthpy
+  - descartes
+  - dask 
+  - netCDF4 
+  - bottleneck
+  - numpy
+  - pandas
+  - cftime
+  - intake
+  - tqdm
+  - gcsfs
+  - xagg
+  - jupyter
+  - ipython
+  - nodejs
+  - notebook
+  - zarr
+  - nc-time-axis
+  - seaborn
+  - opencv
+  - pillow
+  - cartopy
+  - geemap
+  - geopandas
+  - imageio
+  - rasterio
+  - rioxarray
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - pdf2image
+  - poppler
+  - plotly
+  - requests
+  - lxml
+  - html5lib
+  - owslib
+  - pip
+  - pip:
+      - kaleido

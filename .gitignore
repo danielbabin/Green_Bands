@@ -1,0 +1,13 @@
+.DS_Store
+Data/Green_Data/U1313/*.csv
+Data/Green_Data/U1474/*.csv
+Data/Green_Data/Green_Intensity_Splices/U1474/*.csv
+Data/Survey/Photos/JPGs/DSDP/*.jpg
+Data/Survey/Photos/JPGs/ODP/*.jpg
+Data/Survey/Photos/JPGs/ModernIODP/*.jpg
+Data/Survey/Photos/JPGs/EarlyIODP/*.jpg
+Data/Survey/Photos/PDFs/DSDP/*.pdf
+Data/Survey/Photos/PDFs/ODP/*.PDF
+Data/Survey/Photos/PDFs/ModernIODP/*.pdf
+Data/Survey/Photos/PDFs/EarlyIODP/*.pdf
+Documents/Green_Band_Stratigraphy_Charts/*.pdf
