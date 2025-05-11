@@ -1,0 +1,49 @@
+name: green_bands
+channels:
+  - conda-forge
+dependencies:
+  # ── core ───────────────────────────────
+  - python=3.10          # 3.10 is broadly supported; change if you must
+  - mamba                # nice for downstream users too
+  # ── geospatial stack ───────────────────
+  - cartopy>=0.24        # guarantees Shapely 2 compatibility
+  - pyproj>=3.3
+  - geopandas
+  - rioxarray
+  - rasterio
+  - xarray
+  - xarray-spatial
+  # ── science / viz ──────────────────────
+  - matplotlib
+  - ipympl
+  - seaborn
+  - plotly>=5           # works with kaleido for static export
+  - scikit-learn
+  - scipy
+  - pandas
+  - dask
+  - netCDF4
+  - zarr
+  - bottleneck
+  - cftime
+  - nc-time-axis
+  - intake
+  - tqdm
+  - jupyterlab          # notebook + lab UI in one
+  # ── IO / helpers ───────────────────────
+  - gcsfs
+  - requests
+  - pillow
+  - imageio
+  - pdf2image
+  - poppler
+  - lxml
+  - html5lib
+  - owslib
+  - opencv>=4.10 
+  # ── node for Jupyter extensions ────────
+  - nodejs
+  # ── pip extras ─────────────────────────
+  - pip
+  - pip:
+      - kaleido         # static Plotly export

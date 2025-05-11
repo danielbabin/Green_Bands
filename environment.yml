@@ -1,4 +1,4 @@
-name: geospatial
+name: green_bands
 channels:
   - conda-forge
   - defaults
@@ -30,7 +30,8 @@ dependencies:
   - seaborn
   - opencv
   - pillow
-  - cartopy
+  - cartopy>=0.24 
+  - pyproj>=3.3 
   - geemap
   - geopandas
   - imageio
