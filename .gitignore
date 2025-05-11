@@ -12,7 +12,8 @@ Data/Survey/Photos/PDFs/ModernIODP/*.pdf
 Data/Survey/Photos/PDFs/EarlyIODP/*.pdf
 Documents/Green_Band_Stratigraphy_Charts/*.pdf
 Manuscript/
-Documents/
+Documents/Green_Band_Stratigraphy_Charts
+Documents/Munsell_Color_Charts
 Data/Environmental/woa18_all_o00_01.nc
 Figures/Misc/
 Figures/SVGs/
