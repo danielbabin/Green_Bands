@@ -15,4 +15,5 @@ All notebooks reproduce the figures, tables, and supplementary datasets in the a
 | `Data/`      | **Raw data** required to reproduce every figure and table in the manuscript                                                                     |
 | `Documents/` | PDFs for **Supporting Information Datasets 1 & 2** and the complete core‑image sets for the splices of Sites U1474 and U1313 featuring green‑band stratigraphy |
 | `Figures/`   | Exported **main manuscript figures 1–9** and **Supporting Information figures S1–S7**                                                           |
+| `Notebooks/` | **23 iPython notebook files ** used to analyze the data and generate figures. |
 | `Tables/`    | CSV files for **Supporting Information tables S1–S9**                                                                                       |
